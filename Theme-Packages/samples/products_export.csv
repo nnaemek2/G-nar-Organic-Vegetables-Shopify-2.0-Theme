@@ -1,0 +1,386 @@
+Handle,Title,Body (HTML),Vendor,Product Category,Type,Tags,Published,Option1 Name,Option1 Value,Option2 Name,Option2 Value,Option3 Name,Option3 Value,Variant SKU,Variant Grams,Variant Inventory Tracker,Variant Inventory Qty,Variant Inventory Policy,Variant Fulfillment Service,Variant Price,Variant Compare At Price,Variant Requires Shipping,Variant Taxable,Variant Barcode,Image Src,Image Position,Image Alt Text,Gift Card,SEO Title,SEO Description,Google Shopping / Google Product Category,Google Shopping / Gender,Google Shopping / Age Group,Google Shopping / MPN,Google Shopping / Condition,Google Shopping / Custom Product,Google Shopping / Custom Label 0,Google Shopping / Custom Label 1,Google Shopping / Custom Label 2,Google Shopping / Custom Label 3,Google Shopping / Custom Label 4,Variant Image,Variant Weight Unit,Variant Tax Code,Cost per item,Included / Vietnam,Included / International,Price / International,Compare At Price / International,Status
+avocado,Avocado,"<div class=""row"">
+<div class=""col-sm-6"">
+<div><img src=""https://cdn.shopify.com/s/files/1/0620/3126/6004/files/instagram7.jpg?v=1641261397"" class=""img-ultra"" alt=""""></div>
+</div>
+<div class=""col-sm-6"">
+<div class=""ultra"">
+<h3 class=""heading-content"">Things You Need To Know</h3>
+<p class=""heading-content"">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
+</div>
+</div>
+</div>
+<div class=""row"">
+<div class=""col-sm-6"">
+<div class=""ultra"">
+<h3 class=""heading-content"">Things You Need To Know</h3>
+<p class=""heading-content"">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
+</div>
+</div>
+<div class=""col-sm-6"">
+<div><img src=""https://cdn.shopify.com/s/files/1/0620/3126/6004/files/instagram10.jpg?v=1641261397"" alt=""""></div>
+</div>
+</div>",Vegge-store-demo,,"","$5-$10, Green",true,Size,500g,,,,,"",0.0,,0,deny,manual,9.00,,true,true,"",https://cdn.shopify.com/s/files/1/0841/0572/4217/products/1_0bd7e8d1-d135-4b3f-8867-0426ebd15e5c.jpg?v=1696211679,1,,false,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0841/0572/4217/products/1_0bd7e8d1-d135-4b3f-8867-0426ebd15e5c.jpg?v=1696211679,kg,,,true,true,,,active
+avocado,,,,,,,,,1kg,,,,,"",0.0,,0,deny,manual,9.00,,true,true,"",https://cdn.shopify.com/s/files/1/0841/0572/4217/products/2_507581cd-d33f-470d-9dc0-429866687228.jpg?v=1696211679,2,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0841/0572/4217/products/1_0bd7e8d1-d135-4b3f-8867-0426ebd15e5c.jpg?v=1696211679,kg,,,,,,,
+avocado,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0841/0572/4217/products/3_46ce5036-ac1f-440a-90d0-b6d64031e666.jpg?v=1696211679,3,,,,,,,,,,,,,,,,,,,,,,,,
+avocado,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0841/0572/4217/products/4_9322dcf7-0944-41ca-8824-8497ee294060.jpg?v=1696211679,4,,,,,,,,,,,,,,,,,,,,,,,,
+beetroot,Beetroot,"<div class=""row"">
+<div class=""col-sm-6"">
+<div><img src=""https://cdn.shopify.com/s/files/1/0620/3126/6004/files/instagram7.jpg?v=1641261397"" class=""img-ultra"" alt=""""></div>
+</div>
+<div class=""col-sm-6"">
+<div class=""ultra"">
+<h3 class=""heading-content"">Things You Need To Know</h3>
+<p class=""heading-content"">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
+</div>
+</div>
+</div>
+<div class=""row"">
+<div class=""col-sm-6"">
+<div class=""ultra"">
+<h3 class=""heading-content"">Things You Need To Know</h3>
+<p class=""heading-content"">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
+</div>
+</div>
+<div class=""col-sm-6"">
+<div><img src=""https://cdn.shopify.com/s/files/1/0620/3126/6004/files/instagram10.jpg?v=1641261397"" alt=""""></div>
+</div>
+</div>",Vegge-store-demo,,"","$5-$10, Red",true,Size,500g,,,,,"",0.0,,0,deny,manual,5.00,,true,true,"",https://cdn.shopify.com/s/files/1/0841/0572/4217/products/1_b815fd62-80da-4ad6-9109-86ddced111cc.jpg?v=1696211684,1,,false,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0841/0572/4217/products/1_b815fd62-80da-4ad6-9109-86ddced111cc.jpg?v=1696211684,kg,,,true,true,,,active
+beetroot,,,,,,,,,1kg,,,,,"",0.0,,0,deny,manual,5.00,,true,true,"",https://cdn.shopify.com/s/files/1/0841/0572/4217/products/2_94b9dfe7-75fb-4fb0-bce3-6f2773abd1ec.jpg?v=1696211684,2,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0841/0572/4217/products/2_94b9dfe7-75fb-4fb0-bce3-6f2773abd1ec.jpg?v=1696211684,kg,,,,,,,
+bell-pepper,Bell Pepper,"<div class=""row"">
+<div class=""col-sm-6"">
+<div><img src=""https://cdn.shopify.com/s/files/1/0620/3126/6004/files/instagram7.jpg?v=1641261397"" class=""img-ultra"" alt=""""></div>
+</div>
+<div class=""col-sm-6"">
+<div class=""ultra"">
+<h3 class=""heading-content"">Things You Need To Know</h3>
+<p class=""heading-content"">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
+</div>
+</div>
+</div>
+<div class=""row"">
+<div class=""col-sm-6"">
+<div class=""ultra"">
+<h3 class=""heading-content"">Things You Need To Know</h3>
+<p class=""heading-content"">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
+</div>
+</div>
+<div class=""col-sm-6"">
+<div><img src=""https://cdn.shopify.com/s/files/1/0620/3126/6004/files/instagram10.jpg?v=1641261397"" alt=""""></div>
+</div>
+</div>",Vegge-store-demo,,"","$5-$10, Green, Red, Yellow",true,Size,500g,Color,Red,,,"",0.0,,0,deny,manual,0.00,,true,true,"",https://cdn.shopify.com/s/files/1/0841/0572/4217/products/1.jpg?v=1696211690,1,,false,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0841/0572/4217/products/1.jpg?v=1696211690,kg,,,true,true,,,active
+bell-pepper,,,,,,,,,500g,,Green,,,"",0.0,,0,deny,manual,5.00,,true,true,"",https://cdn.shopify.com/s/files/1/0841/0572/4217/products/2.jpg?v=1696211690,2,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0841/0572/4217/products/2.jpg?v=1696211690,kg,,,,,,,
+bell-pepper,,,,,,,,,500g,,Yellow,,,"",0.0,,0,deny,manual,5.00,,true,true,"",https://cdn.shopify.com/s/files/1/0841/0572/4217/products/3.jpg?v=1696211690,3,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0841/0572/4217/products/3.jpg?v=1696211690,kg,,,,,,,
+bell-pepper,,,,,,,,,1kg,,Red,,,"",0.0,,0,deny,manual,0.00,,true,true,"",https://cdn.shopify.com/s/files/1/0841/0572/4217/products/4.jpg?v=1696211690,4,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0841/0572/4217/products/1.jpg?v=1696211690,kg,,,,,,,
+bell-pepper,,,,,,,,,1kg,,Green,,,"",0.0,,0,deny,manual,5.00,,true,true,"",,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0841/0572/4217/products/2.jpg?v=1696211690,kg,,,,,,,
+bell-pepper,,,,,,,,,1kg,,Yellow,,,"",0.0,,0,deny,manual,5.00,,true,true,"",,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0841/0572/4217/products/3.jpg?v=1696211690,kg,,,,,,,
+cabbage,Cabbage,"<div class=""row"">
+<div class=""col-sm-6"">
+<div><img src=""https://cdn.shopify.com/s/files/1/0620/3126/6004/files/instagram7.jpg?v=1641261397"" class=""img-ultra"" alt=""""></div>
+</div>
+<div class=""col-sm-6"">
+<div class=""ultra"">
+<h3 class=""heading-content"">Things You Need To Know</h3>
+<p class=""heading-content"">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
+</div>
+</div>
+</div>
+<div class=""row"">
+<div class=""col-sm-6"">
+<div class=""ultra"">
+<h3 class=""heading-content"">Things You Need To Know</h3>
+<p class=""heading-content"">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
+</div>
+</div>
+<div class=""col-sm-6"">
+<div><img src=""https://cdn.shopify.com/s/files/1/0620/3126/6004/files/instagram10.jpg?v=1641261397"" alt=""""></div>
+</div>
+</div>",Vegge-store-demo,,"","$5-$10, Green",true,Size,500g,,,,,"",0.0,,0,deny,manual,0.00,,true,true,"",https://cdn.shopify.com/s/files/1/0841/0572/4217/products/1_ceebe9d7-02fd-43f4-9f03-bf67871a791b.jpg?v=1696211695,1,,false,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0841/0572/4217/products/1_ceebe9d7-02fd-43f4-9f03-bf67871a791b.jpg?v=1696211695,kg,,,true,true,,,active
+cabbage,,,,,,,,,1kg,,,,,"",0.0,,0,deny,manual,0.00,,true,true,"",https://cdn.shopify.com/s/files/1/0841/0572/4217/products/2_5fb57a04-51fb-4e52-983c-8d1bcf0c260c.jpg?v=1696211695,2,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0841/0572/4217/products/1_ceebe9d7-02fd-43f4-9f03-bf67871a791b.jpg?v=1696211695,kg,,,,,,,
+cabbage,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0841/0572/4217/products/3_c09cb62f-1f07-4b92-9355-54c4e021c533.jpg?v=1696211695,3,,,,,,,,,,,,,,,,,,,,,,,,
+carrot,Carrot,"<div class=""row"">
+<div class=""col-sm-6"">
+<div><img src=""https://cdn.shopify.com/s/files/1/0620/3126/6004/files/instagram7.jpg?v=1641261397"" class=""img-ultra"" alt=""""></div>
+</div>
+<div class=""col-sm-6"">
+<div class=""ultra"">
+<h3 class=""heading-content"">Things You Need To Know</h3>
+<p class=""heading-content"">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
+</div>
+</div>
+</div>
+<div class=""row"">
+<div class=""col-sm-6"">
+<div class=""ultra"">
+<h3 class=""heading-content"">Things You Need To Know</h3>
+<p class=""heading-content"">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
+</div>
+</div>
+<div class=""col-sm-6"">
+<div><img src=""https://cdn.shopify.com/s/files/1/0620/3126/6004/files/instagram10.jpg?v=1641261397"" alt=""""></div>
+</div>
+</div>",Vegge-store-demo,,"",$5-$10,true,Size,500g,,,,,"",0.0,,0,deny,manual,6.00,,true,true,"",https://cdn.shopify.com/s/files/1/0841/0572/4217/products/1_6c33bf7b-eab8-48ea-8faf-774aa1212c0a.jpg?v=1696211699,1,,false,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0841/0572/4217/products/1_6c33bf7b-eab8-48ea-8faf-774aa1212c0a.jpg?v=1696211699,kg,,,true,true,,,active
+carrot,,,,,,,,,1kg,,,,,"",0.0,,0,deny,manual,6.00,,true,true,"",https://cdn.shopify.com/s/files/1/0841/0572/4217/products/2_37285a61-440f-432f-9ae6-f7550550dfda.jpg?v=1696211699,2,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0841/0572/4217/products/1_6c33bf7b-eab8-48ea-8faf-774aa1212c0a.jpg?v=1696211699,kg,,,,,,,
+cauliflower,Cauliflower,"<div class=""row"">
+<div class=""col-sm-6"">
+<div><img src=""https://cdn.shopify.com/s/files/1/0620/3126/6004/files/instagram7.jpg?v=1641261397"" class=""img-ultra"" alt=""""></div>
+</div>
+<div class=""col-sm-6"">
+<div class=""ultra"">
+<h3 class=""heading-content"">Things You Need To Know</h3>
+<p class=""heading-content"">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
+</div>
+</div>
+</div>
+<div class=""row"">
+<div class=""col-sm-6"">
+<div class=""ultra"">
+<h3 class=""heading-content"">Things You Need To Know</h3>
+<p class=""heading-content"">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
+</div>
+</div>
+<div class=""col-sm-6"">
+<div><img src=""https://cdn.shopify.com/s/files/1/0620/3126/6004/files/instagram10.jpg?v=1641261397"" alt=""""></div>
+</div>
+</div>",Vegge-store-demo,,"","$5-$10, Green, White",true,Size,500g,Color,White,,,"",0.0,,0,deny,manual,10.00,,true,true,"",https://cdn.shopify.com/s/files/1/0841/0572/4217/products/1_ad10c512-30d1-4893-b0ac-391c02f9f233.jpg?v=1696211706,1,,false,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0841/0572/4217/products/1_ad10c512-30d1-4893-b0ac-391c02f9f233.jpg?v=1696211706,kg,,,true,true,,,active
+cauliflower,,,,,,,,,500g,,Green,,,"",0.0,,0,deny,manual,10.00,,true,true,"",https://cdn.shopify.com/s/files/1/0841/0572/4217/products/2_2c6e9062-8a1d-4244-a73c-80842495f21a.jpg?v=1696211706,2,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0841/0572/4217/products/2_2c6e9062-8a1d-4244-a73c-80842495f21a.jpg?v=1696211706,kg,,,,,,,
+cauliflower,,,,,,,,,1kg,,White,,,"",0.0,,0,deny,manual,10.00,,true,true,"",https://cdn.shopify.com/s/files/1/0841/0572/4217/products/3_07b9104a-f5f1-4620-ae1c-fc080bf9cea5.jpg?v=1696211706,3,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0841/0572/4217/products/3_07b9104a-f5f1-4620-ae1c-fc080bf9cea5.jpg?v=1696211706,kg,,,,,,,
+cauliflower,,,,,,,,,1kg,,Green,,,"",0.0,,0,deny,manual,10.00,,true,true,"",https://cdn.shopify.com/s/files/1/0841/0572/4217/products/4_e8e178f4-cf47-439a-bd7c-51d431d2056e.jpg?v=1696211706,4,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0841/0572/4217/products/4_e8e178f4-cf47-439a-bd7c-51d431d2056e.jpg?v=1696211706,kg,,,,,,,
+eggplant,Eggplant,"<div class=""row"">
+<div class=""col-sm-6"">
+<div><img src=""https://cdn.shopify.com/s/files/1/0620/3126/6004/files/instagram7.jpg?v=1641261397"" class=""img-ultra"" alt=""""></div>
+</div>
+<div class=""col-sm-6"">
+<div class=""ultra"">
+<h3 class=""heading-content"">Things You Need To Know</h3>
+<p class=""heading-content"">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
+</div>
+</div>
+</div>
+<div class=""row"">
+<div class=""col-sm-6"">
+<div class=""ultra"">
+<h3 class=""heading-content"">Things You Need To Know</h3>
+<p class=""heading-content"">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
+</div>
+</div>
+<div class=""col-sm-6"">
+<div><img src=""https://cdn.shopify.com/s/files/1/0620/3126/6004/files/instagram10.jpg?v=1641261397"" alt=""""></div>
+</div>
+</div>",Vegge-store-demo,,"",$5-$10,true,Title,Default Title,,,,,"",0.0,,0,deny,manual,7.00,,true,true,"",https://cdn.shopify.com/s/files/1/0841/0572/4217/products/1_ae0bcc2b-6a87-427d-969a-613d72f65486.jpg?v=1696211711,1,,false,,,,,,,,,,,,,,,kg,,,true,true,,,active
+eggplant,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0841/0572/4217/products/2_e2c81d96-866b-45e4-993d-27c6b9d1da43.jpg?v=1696211711,2,,,,,,,,,,,,,,,,,,,,,,,,
+eggplant,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0841/0572/4217/products/3_031335a4-3b82-4c66-aea6-8ae35026247b.jpg?v=1696211712,3,,,,,,,,,,,,,,,,,,,,,,,,
+garlic,Garlic,"<div class=""row"">
+<div class=""col-sm-6"">
+<div><img src=""https://cdn.shopify.com/s/files/1/0620/3126/6004/files/instagram7.jpg?v=1641261397"" class=""img-ultra"" alt=""""></div>
+</div>
+<div class=""col-sm-6"">
+<div class=""ultra"">
+<h3 class=""heading-content"">Things You Need To Know</h3>
+<p class=""heading-content"">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
+</div>
+</div>
+</div>
+<div class=""row"">
+<div class=""col-sm-6"">
+<div class=""ultra"">
+<h3 class=""heading-content"">Things You Need To Know</h3>
+<p class=""heading-content"">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
+</div>
+</div>
+<div class=""col-sm-6"">
+<div><img src=""https://cdn.shopify.com/s/files/1/0620/3126/6004/files/instagram10.jpg?v=1641261397"" alt=""""></div>
+</div>
+</div>",Vegge-store-demo,,"",$5-$10,true,Size,500g,,,,,"",0.0,,0,deny,manual,5.00,6.00,true,true,"",https://cdn.shopify.com/s/files/1/0841/0572/4217/products/1_567fd765-5d4f-4afb-85f3-423dde7d21d8.jpg?v=1696211715,1,,false,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0841/0572/4217/products/1_567fd765-5d4f-4afb-85f3-423dde7d21d8.jpg?v=1696211715,kg,,,true,true,,,active
+garlic,,,,,,,,,1kg,,,,,"",0.0,,0,deny,manual,5.00,6.00,true,true,"",https://cdn.shopify.com/s/files/1/0841/0572/4217/products/2_a9ea3a65-cb67-4dba-a515-f93d76d3d45a.jpg?v=1696211715,2,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0841/0572/4217/products/2_a9ea3a65-cb67-4dba-a515-f93d76d3d45a.jpg?v=1696211715,kg,,,,,,,
+ginger,Ginger,"<div class=""row"">
+<div class=""col-sm-6"">
+<div><img src=""https://cdn.shopify.com/s/files/1/0620/3126/6004/files/instagram7.jpg?v=1641261397"" class=""img-ultra"" alt=""""></div>
+</div>
+<div class=""col-sm-6"">
+<div class=""ultra"">
+<h3 class=""heading-content"">Things You Need To Know</h3>
+<p class=""heading-content"">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
+</div>
+</div>
+</div>
+<div class=""row"">
+<div class=""col-sm-6"">
+<div class=""ultra"">
+<h3 class=""heading-content"">Things You Need To Know</h3>
+<p class=""heading-content"">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
+</div>
+</div>
+<div class=""col-sm-6"">
+<div><img src=""https://cdn.shopify.com/s/files/1/0620/3126/6004/files/instagram10.jpg?v=1641261397"" alt=""""></div>
+</div>
+</div>",Vegge-store-demo,,"",$5-$10,true,Title,Default Title,,,,,"",0.0,,0,deny,manual,5.00,7.00,true,true,"",https://cdn.shopify.com/s/files/1/0841/0572/4217/products/1_cfc6a7f2-ea51-4b8a-af15-a1949da980d7.jpg?v=1696211722,1,,false,,,,,,,,,,,,,,,kg,,,true,true,,,active
+ginger,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0841/0572/4217/products/2_91a15f05-9ab3-448a-a214-ce45bbf72902.jpg?v=1696211722,2,,,,,,,,,,,,,,,,,,,,,,,,
+ginger,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0841/0572/4217/products/3_ae5ff15e-ee4c-4cfb-95c1-ca47ba5697d1.jpg?v=1696211722,3,,,,,,,,,,,,,,,,,,,,,,,,
+lemon,Lemon,"<div class=""row"">
+<div class=""col-sm-6"">
+<div><img src=""https://cdn.shopify.com/s/files/1/0620/3126/6004/files/instagram7.jpg?v=1641261397"" class=""img-ultra"" alt=""""></div>
+</div>
+<div class=""col-sm-6"">
+<div class=""ultra"">
+<h3 class=""heading-content"">Things You Need To Know</h3>
+<p class=""heading-content"">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
+</div>
+</div>
+</div>
+<div class=""row"">
+<div class=""col-sm-6"">
+<div class=""ultra"">
+<h3 class=""heading-content"">Things You Need To Know</h3>
+<p class=""heading-content"">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
+</div>
+</div>
+<div class=""col-sm-6"">
+<div><img src=""https://cdn.shopify.com/s/files/1/0620/3126/6004/files/instagram10.jpg?v=1641261397"" alt=""""></div>
+</div>
+</div>",Vegge-store-demo,,"",$5-$10,true,Title,Default Title,,,,,"",0.0,,0,deny,manual,7.00,,true,true,"",https://cdn.shopify.com/s/files/1/0841/0572/4217/products/1_ea44ac56-3c98-4a94-b82f-96f2653c709a.jpg?v=1696211729,1,,false,,,,,,,,,,,,,,,kg,,,true,true,,,active
+lemon,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0841/0572/4217/products/2_5e7383a9-db55-4d1e-980b-4bd751b7fd6d.jpg?v=1696211729,2,,,,,,,,,,,,,,,,,,,,,,,,
+lemon,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0841/0572/4217/products/3_6a61f689-8c3f-4578-8f73-a40be1c20b4f.jpg?v=1696211729,3,,,,,,,,,,,,,,,,,,,,,,,,
+lemon,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0841/0572/4217/products/4_8bcba16f-6707-4c50-8712-3a24e59029f3.jpg?v=1696211729,4,,,,,,,,,,,,,,,,,,,,,,,,
+lettuce-vegetable,Lettuce vegetable,"<div class=""row"">
+<div class=""col-sm-6"">
+<div><img src=""https://cdn.shopify.com/s/files/1/0620/3126/6004/files/instagram7.jpg?v=1641261397"" class=""img-ultra"" alt=""""></div>
+</div>
+<div class=""col-sm-6"">
+<div class=""ultra"">
+<h3 class=""heading-content"">Things You Need To Know</h3>
+<p class=""heading-content"">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
+</div>
+</div>
+</div>
+<div class=""row"">
+<div class=""col-sm-6"">
+<div class=""ultra"">
+<h3 class=""heading-content"">Things You Need To Know</h3>
+<p class=""heading-content"">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
+</div>
+</div>
+<div class=""col-sm-6"">
+<div><img src=""https://cdn.shopify.com/s/files/1/0620/3126/6004/files/instagram10.jpg?v=1641261397"" alt=""""></div>
+</div>
+</div>",Vegge-store-demo,,"",$5-$10,true,Title,Default Title,,,,,"",0.0,,0,deny,manual,6.00,,true,true,"",https://cdn.shopify.com/s/files/1/0841/0572/4217/products/1_cdc4234d-372e-4609-ae74-6ac9b8a79e13.jpg?v=1696211735,1,,false,,,,,,,,,,,,,,,kg,,,true,true,,,active
+lettuce-vegetable,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0841/0572/4217/products/2_ca79fd99-4c5c-46b4-b5a7-e218bc86857f.jpg?v=1696211735,2,,,,,,,,,,,,,,,,,,,,,,,,
+lettuce-vegetable,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0841/0572/4217/products/3_7d2d6939-413b-4b93-91aa-cbf538d29a66.jpg?v=1696211735,3,,,,,,,,,,,,,,,,,,,,,,,,
+onion,Onion,"<div class=""row"">
+<div class=""col-sm-6"">
+<div><img src=""https://cdn.shopify.com/s/files/1/0620/3126/6004/files/instagram7.jpg?v=1641261397"" class=""img-ultra"" alt=""""></div>
+</div>
+<div class=""col-sm-6"">
+<div class=""ultra"">
+<h3 class=""heading-content"">Things You Need To Know</h3>
+<p class=""heading-content"">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
+</div>
+</div>
+</div>
+<div class=""row"">
+<div class=""col-sm-6"">
+<div class=""ultra"">
+<h3 class=""heading-content"">Things You Need To Know</h3>
+<p class=""heading-content"">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
+</div>
+</div>
+<div class=""col-sm-6"">
+<div><img src=""https://cdn.shopify.com/s/files/1/0620/3126/6004/files/instagram10.jpg?v=1641261397"" alt=""""></div>
+</div>
+</div>",Vegge-store-demo,,"",$5-$10,true,Title,Default Title,,,,,"",0.0,,0,deny,manual,5.00,,true,true,"",https://cdn.shopify.com/s/files/1/0841/0572/4217/products/1_1ad32dad-2352-42cd-a6cc-b69d67861539.jpg?v=1696211739,1,,false,,,,,,,,,,,,,,,kg,,,true,true,,,active
+onion,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0841/0572/4217/products/2_dfe17531-a9e3-486a-be27-27820ac1a3cd.jpg?v=1696211739,2,,,,,,,,,,,,,,,,,,,,,,,,
+pineapple,Pineapple,"<div class=""row"">
+<div class=""col-sm-6"">
+<div><img src=""https://cdn.shopify.com/s/files/1/0620/3126/6004/files/instagram7.jpg?v=1641261397"" class=""img-ultra"" alt=""""></div>
+</div>
+<div class=""col-sm-6"">
+<div class=""ultra"">
+<h3 class=""heading-content"">Things You Need To Know</h3>
+<p class=""heading-content"">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
+</div>
+</div>
+</div>
+<div class=""row"">
+<div class=""col-sm-6"">
+<div class=""ultra"">
+<h3 class=""heading-content"">Things You Need To Know</h3>
+<p class=""heading-content"">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
+</div>
+</div>
+<div class=""col-sm-6"">
+<div><img src=""https://cdn.shopify.com/s/files/1/0620/3126/6004/files/instagram10.jpg?v=1641261397"" alt=""""></div>
+</div>
+</div>",Vegge-store-demo,,"",$5-$10,true,Title,Default Title,,,,,"",0.0,,0,deny,manual,7.00,,true,true,"",https://cdn.shopify.com/s/files/1/0841/0572/4217/products/1_9af45cca-80ad-4eac-8370-7a4788b2c8b8.jpg?v=1696211744,1,,false,,,,,,,,,,,,,,,kg,,,true,true,,,active
+pineapple,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0841/0572/4217/products/2_8b8a29b7-ffe0-4329-8b4b-ba191e735997.jpg?v=1696211744,2,,,,,,,,,,,,,,,,,,,,,,,,
+pineapple,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0841/0572/4217/products/3_43286362-5bf4-4197-8d25-988fafa87239.jpg?v=1696211744,3,,,,,,,,,,,,,,,,,,,,,,,,
+potato,Potato,"<div class=""row"">
+<div class=""col-sm-6"">
+<div><img src=""https://cdn.shopify.com/s/files/1/0620/3126/6004/files/instagram7.jpg?v=1641261397"" class=""img-ultra"" alt=""""></div>
+</div>
+<div class=""col-sm-6"">
+<div class=""ultra"">
+<h3 class=""heading-content"">Things You Need To Know</h3>
+<p class=""heading-content"">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
+</div>
+</div>
+</div>
+<div class=""row"">
+<div class=""col-sm-6"">
+<div class=""ultra"">
+<h3 class=""heading-content"">Things You Need To Know</h3>
+<p class=""heading-content"">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
+</div>
+</div>
+<div class=""col-sm-6"">
+<div><img src=""https://cdn.shopify.com/s/files/1/0620/3126/6004/files/instagram10.jpg?v=1641261397"" alt=""""></div>
+</div>
+</div>",Vegge-store-demo,,"",$5-$10,true,Title,Default Title,,,,,"",0.0,,0,deny,manual,6.00,,true,true,"",https://cdn.shopify.com/s/files/1/0841/0572/4217/products/1_2a65e36c-8876-41d8-a86b-4d1d9a3c97b4.jpg?v=1696211749,1,,false,,,,,,,,,,,,,,,kg,,,true,true,,,active
+potato,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0841/0572/4217/products/2_c265748e-fc98-432e-be22-c28eeb22723e.jpg?v=1696211749,2,,,,,,,,,,,,,,,,,,,,,,,,
+potato,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0841/0572/4217/products/3_94e742d4-b295-4297-a404-9769bc2c699c.jpg?v=1696211749,3,,,,,,,,,,,,,,,,,,,,,,,,
+tomato,Tomato,"<div class=""row"">
+<div class=""col-sm-6"">
+<div><img src=""https://cdn.shopify.com/s/files/1/0620/3126/6004/files/instagram7.jpg?v=1641261397"" class=""img-ultra"" alt=""""></div>
+</div>
+<div class=""col-sm-6"">
+<div class=""ultra"">
+<h3 class=""heading-content"">Things You Need To Know</h3>
+<p class=""heading-content"">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
+</div>
+</div>
+</div>
+<div class=""row"">
+<div class=""col-sm-6"">
+<div class=""ultra"">
+<h3 class=""heading-content"">Things You Need To Know</h3>
+<p class=""heading-content"">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
+</div>
+</div>
+<div class=""col-sm-6"">
+<div><img src=""https://cdn.shopify.com/s/files/1/0620/3126/6004/files/instagram10.jpg?v=1641261397"" alt=""""></div>
+</div>
+</div>",Vegge-store-demo,,"",$5-$10,true,Size,500g,,,,,"",0.0,,0,deny,manual,7.00,,true,true,"",https://cdn.shopify.com/s/files/1/0841/0572/4217/products/1_2e0b9ab0-b4b8-406b-a321-8165c9e78e8c.jpg?v=1696211753,1,,false,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0841/0572/4217/products/1_2e0b9ab0-b4b8-406b-a321-8165c9e78e8c.jpg?v=1696211753,kg,,,true,true,,,active
+tomato,,,,,,,,,1kg,,,,,"",0.0,,0,deny,manual,7.00,,true,true,"",https://cdn.shopify.com/s/files/1/0841/0572/4217/products/2_368cc0a9-d270-4137-b5b1-0bb77dd6fb51.jpg?v=1696211753,2,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0841/0572/4217/products/2_368cc0a9-d270-4137-b5b1-0bb77dd6fb51.jpg?v=1696211753,kg,,,,,,,
+vegetable-peas,Vegetable Peas,"<div class=""row"">
+<div class=""col-sm-6"">
+<div><img src=""https://cdn.shopify.com/s/files/1/0620/3126/6004/files/instagram7.jpg?v=1641261397"" class=""img-ultra"" alt=""""></div>
+</div>
+<div class=""col-sm-6"">
+<div class=""ultra"">
+<h3 class=""heading-content"">Things You Need To Know</h3>
+<p class=""heading-content"">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
+</div>
+</div>
+</div>
+<div class=""row"">
+<div class=""col-sm-6"">
+<div class=""ultra"">
+<h3 class=""heading-content"">Things You Need To Know</h3>
+<p class=""heading-content"">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
+</div>
+</div>
+<div class=""col-sm-6"">
+<div><img src=""https://cdn.shopify.com/s/files/1/0620/3126/6004/files/instagram10.jpg?v=1641261397"" alt=""""></div>
+</div>
+</div>",Vegge-store-demo,,"",$5-$10,true,Title,Default Title,,,,,"",0.0,,0,deny,manual,10.00,,true,true,"",https://cdn.shopify.com/s/files/1/0841/0572/4217/products/1_23582d6b-6559-4ba5-9849-f40200e359aa.jpg?v=1696211758,1,,false,,,,,,,,,,,,,,,kg,,,true,true,,,active
+vegetable-peas,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0841/0572/4217/products/3_da79eb46-d7b7-48c8-b043-d9adad98be86.jpg?v=1696211758,2,,,,,,,,,,,,,,,,,,,,,,,,
+vegetable-peas,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0841/0572/4217/products/Untitled-13.jpg?v=1696211758,3,,,,,,,,,,,,,,,,,,,,,,,,
